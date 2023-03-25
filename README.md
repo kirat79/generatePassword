@@ -11,7 +11,9 @@ user has the choice to make a random password of any length and using any no. of
 ## Setup 
 
 1. clone this repository
-### npm init
+2. 
+### npm init -y
+3.
 ### sudo npm link
+4. use the bash command "genp" and enjoy!!
 
-and the tool is ready to be used!!
